@@ -1,0 +1,101 @@
+Stock_Key,Symbol,Company_Name,Sector,Benchmark_Index
+1,ABBOTINDIA,Abbott India Ltd.,Pharmaceuticals,CNXPHARMA
+2,ACC,ACC Ltd.,Cement & Construction,CNX100
+3,ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,Services & Logistics,CNX100
+4,ADANITRANS,Adani Transmission Ltd.,Power & Utilities,CNX100
+5,AMBUJACEM,Ambuja Cements Ltd.,Cement & Construction,CNX100
+6,ASIANPAINT,Asian Paints Ltd.,Consumer Durables & Paints,NIFTY_CONSR_DURBL
+7,AUROPHARMA,Aurobindo Pharma Ltd.,Pharmaceuticals,CNXPHARMA
+8,AXISBANK,Axis Bank Ltd.,Banking,NIFTYPVTBANK
+9,BAJAJ-AUTO,Bajaj Auto Ltd.,Automobile,CNXAUTO
+10,BAJAJFINSV,Bajaj Finserv Ltd.,Financial Services,CNXFINANCE
+11,BAJAJHLDNG,Bajaj Holdings & Investment Ltd.,Financial Services,CNXFINANCE
+12,BAJFINANCE,Bajaj Finance Ltd.,Financial Services,CNXFINANCE
+13,BANDHANBNK,Bandhan Bank Ltd.,Banking,NIFTYPVTBANK
+14,BANKBARODA,Bank of Baroda,Banking,CNXPSUBANK
+15,BERGEPAINT,Berger Paints India Ltd.,Consumer Durables & Paints,NIFTY_CONSR_DURBL
+16,BHARTIARTL,Bharti Airtel Ltd.,Telecommunications,CNX100
+17,BIOCON,Biocon Ltd.,Pharmaceuticals,CNXPHARMA
+18,BOSCHLTD,Bosch Ltd.,Automobile Ancillaries,CNXAUTO
+19,BPCL,Bharat Petroleum Corporation Ltd.,"Oil, Gas & Consumable Fuels",NIFTY_OIL_AND_GAS
+20,BRITANNIA,Britannia Industries Ltd.,Fast Moving Consumer Goods,CNXFMCG
+21,CADILAHC,Cadila Healthcare Ltd.,Pharmaceuticals,CNXPHARMA
+22,CIPLA,Cipla Ltd.,Pharmaceuticals,CNXPHARMA
+23,COALINDIA,Coal India Ltd.,"Oil, Gas & Consumable Fuels",NIFTY_OIL_AND_GAS
+24,COLPAL,Colgate-Palmolive (India) Ltd.,Fast Moving Consumer Goods,CNXFMCG
+25,CONCOR,Container Corporation of India Ltd.,Services & Logistics,CNX100
+26,DABUR,Dabur India Ltd.,Fast Moving Consumer Goods,CNXFMCG
+27,DIVISLAB,Divis Laboratories Ltd.,Pharmaceuticals,CNXPHARMA
+28,DLF,DLF Ltd.,Realty,CNXREALTY
+29,DMART,Avenue Supermarts Ltd. (DMart),Consumer Services & Retail,CNX100
+30,DRREDDY,Dr. Reddy's Laboratories Ltd.,Pharmaceuticals,CNXPHARMA
+31,EICHERMOT,Eicher Motors Ltd.,Automobile,CNXAUTO
+32,GAIL,GAIL (India) Ltd.,"Oil, Gas & Consumable Fuels",NIFTY_OIL_AND_GAS
+33,GICRE,General Insurance Corporation of India,Financial Services,CNXFINANCE
+34,GODREJCP,Godrej Consumer Products Ltd.,Fast Moving Consumer Goods,CNXFMCG
+35,GRASIM,Grasim Industries Ltd.,Cement & Construction,CNX100
+36,HAVELLS,Havells India Ltd.,Consumer Durables & Electricals,NIFTY_CONSR_DURBL
+37,HCLTECH,HCL Technologies Ltd.,Information Technology,CNXIT
+38,HDFC,Housing Development Finance Corporation Ltd.,Financial Services,CNXFINANCE
+39,HDFCAMC,HDFC Asset Management Company Ltd.,Financial Services,CNXFINANCE
+40,HDFCBANK,HDFC Bank Ltd.,Banking,NIFTYPVTBANK
+41,HDFCLIFE,HDFC Life Insurance Company Ltd.,Financial Services,CNXFINANCE
+42,HEROMOTOCO,Hero MotoCorp Ltd.,Automobile,CNXAUTO
+43,HINDALCO,Hindalco Industries Ltd.,Metals & Mining,CNXMETAL
+44,HINDPETRO,Hindustan Petroleum Corporation Ltd.,"Oil, Gas & Consumable Fuels",NIFTY_OIL_AND_GAS
+45,HINDUNILVR,Hindustan Unilever Ltd.,Fast Moving Consumer Goods,CNXFMCG
+46,HINDZINC,Hindustan Zinc Ltd.,Metals & Mining,CNXMETAL
+47,ICICIBANK,ICICI Bank Ltd.,Banking,NIFTYPVTBANK
+48,ICICIGI,ICICI Lombard General Insurance Co.,Financial Services,CNXFINANCE
+49,ICICIPRULI,ICICI Prudential Life Insurance Co.,Financial Services,CNXFINANCE
+50,IGL,Indraprastha Gas Ltd.,"Oil, Gas & Consumable Fuels",NIFTY_OIL_AND_GAS
+51,INDIGO,InterGlobe Aviation Ltd. (IndiGo),Services & Aviation,CNX100
+52,INDUSINDBK,IndusInd Bank Ltd.,Banking,NIFTYPVTBANK
+53,INFRATEL,Bharti Infratel Ltd.,Telecommunications,CNX100
+54,INFY,Infosys Ltd.,Information Technology,CNXIT
+55,IOC,Indian Oil Corporation Ltd.,"Oil, Gas & Consumable Fuels",NIFTY_OIL_AND_GAS
+56,ITC,ITC Ltd.,Fast Moving Consumer Goods,CNXFMCG
+57,JSWSTEEL,JSW Steel Ltd.,Metals & Mining,CNXMETAL
+58,KOTAKBANK,Kotak Mahindra Bank Ltd.,Banking,NIFTYPVTBANK
+59,LT,Larsen & Toubro Ltd.,Construction & Engineering,CNX100
+60,LUPIN,Lupin Ltd.,Pharmaceuticals,CNXPHARMA
+61,M&M,M&M,Others,CNX100
+62,MARICO,Marico Ltd.,Fast Moving Consumer Goods,CNXFMCG
+63,MARUTI,Maruti Suzuki India Ltd.,Automobile,CNXAUTO
+64,MCDOWELL-N,United Spirits Ltd.,Fast Moving Consumer Goods,CNXFMCG
+65,MOTHERSUMI,Motherson Sumi Systems Ltd.,Automobile Ancillaries,CNXAUTO
+66,MUTHOOTFIN,Muthoot Finance Ltd.,Financial Services,CNXFINANCE
+67,NAUKRI,Info Edge (India) Ltd. (Naukri),Information Technology,CNXIT
+68,NESTLEIND,Nestle India Ltd.,Fast Moving Consumer Goods,CNXFMCG
+69,NHPC,NHPC Ltd.,Power & Utilities,CNX100
+70,NMDC,NMDC Ltd.,Metals & Mining,CNXMETAL
+71,NTPC,NTPC Ltd.,Power & Utilities,CNX100
+72,OFSS,Oracle Financial Services Software Ltd.,Information Technology,CNXIT
+73,ONGC,Oil and Natural Gas Corporation Ltd.,"Oil, Gas & Consumable Fuels",NIFTY_OIL_AND_GAS
+74,PAGEIND,Page Industries Ltd.,Textiles & Apparel,CNX100
+75,PEL,Piramal Enterprises Ltd.,Financial Services,CNXFINANCE
+76,PETRONET,Petronet LNG Ltd.,"Oil, Gas & Consumable Fuels",NIFTY_OIL_AND_GAS
+77,PFC,Power Finance Corporation Ltd.,Financial Services,CNXFINANCE
+78,PGHH,Procter & Gamble Hygiene and Health Care Ltd.,Fast Moving Consumer Goods,CNXFMCG
+79,PIDILITIND,Pidilite Industries Ltd.,Chemicals,CNX100
+80,PNB,Punjab National Bank,Banking,CNXPSUBANK
+81,POWERGRID,Power Grid Corporation of India Ltd.,Power & Utilities,CNX100
+82,RELIANCE,Reliance Industries Ltd.,"Oil, Gas & Consumable Fuels",NIFTY_OIL_AND_GAS
+83,SBICARD,SBI Cards and Payment Services Ltd.,Financial Services,CNXFINANCE
+84,SBILIFE,SBI Life Insurance Company Ltd.,Financial Services,CNXFINANCE
+85,SBIN,State Bank of India,Banking,CNXPSUBANK
+86,SHREECEM,Shree Cement Ltd.,Cement & Construction,CNX100
+87,SIEMENS,Siemens Ltd.,Capital Goods & Engineering,CNX100
+88,SRTRANSFIN,Shriram Transport Finance Co. Ltd.,Financial Services,CNXFINANCE
+89,SUNPHARMA,Sun Pharmaceutical Industries Ltd.,Pharmaceuticals,CNXPHARMA
+90,TATAMOTORS,Tata Motors Ltd.,Automobile,CNXAUTO
+91,TATASTEEL,Tata Steel Ltd.,Metals & Mining,CNXMETAL
+92,TCS,Tata Consultancy Services Ltd.,Information Technology,CNXIT
+93,TECHM,Tech Mahindra Ltd.,Information Technology,CNXIT
+94,TITAN,Titan Company Ltd.,Consumer Durables & Gems,NIFTY_CONSR_DURBL
+95,TORNTPHARM,Torrent Pharmaceuticals Ltd.,Pharmaceuticals,CNXPHARMA
+96,UBL,United Breweries Ltd.,Fast Moving Consumer Goods,CNXFMCG
+97,ULTRACEMCO,UltraTech Cement Ltd.,Cement & Construction,CNX100
+98,UPL,UPL Ltd.,Chemicals,CNX100
+99,WIPRO,Wipro Ltd.,Information Technology,CNXIT
+100,ZEEL,Zee Entertainment Enterprises Ltd.,Media & Entertainment,CNXMEDIA

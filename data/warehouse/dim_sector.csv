@@ -1,0 +1,27 @@
+Sector_Key,Sector,Benchmark_Index
+1,Automobile,CNXAUTO
+2,Automobile Ancillaries,CNXAUTO
+3,Banking,NIFTYPVTBANK
+4,Banking,CNXPSUBANK
+5,Capital Goods & Engineering,CNX100
+6,Cement & Construction,CNX100
+7,Chemicals,CNX100
+8,Construction & Engineering,CNX100
+9,Consumer Durables & Electricals,NIFTY_CONSR_DURBL
+10,Consumer Durables & Gems,NIFTY_CONSR_DURBL
+11,Consumer Durables & Paints,NIFTY_CONSR_DURBL
+12,Consumer Services & Retail,CNX100
+13,Fast Moving Consumer Goods,CNXFMCG
+14,Financial Services,CNXFINANCE
+15,Information Technology,CNXIT
+16,Media & Entertainment,CNXMEDIA
+17,Metals & Mining,CNXMETAL
+18,"Oil, Gas & Consumable Fuels",NIFTY_OIL_AND_GAS
+19,Others,CNX100
+20,Pharmaceuticals,CNXPHARMA
+21,Power & Utilities,CNX100
+22,Realty,CNXREALTY
+23,Services & Aviation,CNX100
+24,Services & Logistics,CNX100
+25,Telecommunications,CNX100
+26,Textiles & Apparel,CNX100

@@ -1,0 +1,31 @@
+Index_Key,Symbol,Index_Name,Index_Category
+1,CNX100,NIFTY 100 Large Cap,Broad Market Index
+2,CNX200,NIFTY 200 Broad Market,Broad Market Index
+3,CNX500,NIFTY 500 Multicap,Broad Market Index
+4,CNXAUTO,NIFTY Auto Sector,Sectoral Index
+5,CNXFINANCE,NIFTY Financial Services,Sectoral Index
+6,CNXFMCG,NIFTY FMCG Sector,Sectoral Index
+7,CNXIT,NIFTY IT Sector,Sectoral Index
+8,CNXMEDIA,NIFTY Media Sector,Sectoral Index
+9,CNXMETAL,NIFTY Metal Sector,Sectoral Index
+10,CNXMIDCAP,NIFTY Midcap 100,Broad Market Index
+11,CNXPHARMA,NIFTY Pharma Sector,Sectoral Index
+12,CNXPSUBANK,NIFTY PSU Bank Sector,Sectoral Index
+13,CNXREALTY,NIFTY Realty Sector,Sectoral Index
+14,INDIAVIX,India Volatility Index (VIX),Volatility Index
+15,NIFTY,NIFTY 50 Benchmark,Broad Market Index
+16,NIFTY500_MULTICAP,NIFTY 500 Multicap 50:25:25,Broad Market Index
+17,NIFTYFINSRV25_50,NIFTY Financial Services 25/50,Sectoral Index
+18,NIFTYJR,NIFTY Next 50,Broad Market Index
+19,NIFTYMIDCAP150,NIFTY Midcap 150,Broad Market Index
+20,NIFTYMIDCAP50,NIFTY Midcap 50,Broad Market Index
+21,NIFTYPVTBANK,NIFTY Private Bank Sector,Sectoral Index
+22,NIFTYSMLCAP250,NIFTY Smallcap 250,Broad Market Index
+23,NIFTYSMLCAP50,NIFTY Smallcap 50,Broad Market Index
+24,NIFTY_CONSR_DURBL,NIFTY Consumer Durables Sector,Sectoral Index
+25,NIFTY_HEALTHCARE,NIFTY Healthcare Index,Sectoral Index
+26,NIFTY_LARGEMID250,NIFTY LargeMidcap 250,Broad Market Index
+27,NIFTY_MICROCAP250,NIFTY Microcap 250,Broad Market Index
+28,NIFTY_MID_SELECT,NIFTY Midcap Select,Broad Market Index
+29,NIFTY_OIL_AND_GAS,NIFTY Oil & Gas Sector,Sectoral Index
+30,NIFTY_TOTAL_MKT,NIFTY Total Market,Broad Market Index
